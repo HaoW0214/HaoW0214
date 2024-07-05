@@ -15,7 +15,3 @@
 ![Visitor Count](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ac595079b3e495c81bbd930d93f5861~tplv-k3u1fbpfcp-zoom-1.image)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=assassinfss&theme=xcode" /> </div>
-
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);welcom to assassinfss GitHub!&center=true&size=27"></h1>
