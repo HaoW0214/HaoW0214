@@ -16,6 +16,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=linweiqian&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=assassinfss&theme=xcode" /> </div>
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到assassinfss GitHub首页!&center=true&size=27"></h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);welcom to assassinfss GitHub!&center=true&size=27"></h1>
