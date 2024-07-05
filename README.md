@@ -2,8 +2,8 @@
 
 ![:assassinfss](https://count.getloli.com/get/@:assassinfss?theme=gelbooru-h)
 
-<h1 align="center">Hi 👋, I'm hao.wang</h1>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hi 👋, I'm assassinfss</h1>
+<h3 align="left">Connect with me:402168042@qq.com</h3>
 <p align="left">
 </p>
 
