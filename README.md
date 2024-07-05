@@ -10,6 +10,10 @@
 &nbsp;
 &nbsp;
 &nbsp;
+
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=这世界那么多人;致敬奋斗路上劈星斩月的你!&center=true&size=27"> </h1>
+
+
 &nbsp;
 &nbsp;
 
