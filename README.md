@@ -13,6 +13,14 @@
 &nbsp;
 &nbsp;
 
+![](https://img.shields.io/badge/goodgood_study-dayday_up-yellowblue)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=assassinfss)](https://github.com/ryo-ma/github-profile-trophy)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=assassinfss&left_color=green&right_color=red)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=assassinfss&theme=dark)](https://git.io/streak-stats)
+
 ![:assassinfss](https://count.getloli.com/get/@:assassinfss?theme=gelbooru-h)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
